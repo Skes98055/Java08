@@ -1,7 +1,6 @@
 import java.util.*;
 class CTest{
-    int a;int b;int c;
-    void ans(int a1,int b1,int c1){
+     void ans(int a1,int b1,int c1){
         if(a1==0){
             System.out.println("此數為0");
         }
